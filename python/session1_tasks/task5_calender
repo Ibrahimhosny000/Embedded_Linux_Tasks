@@ -1,0 +1,11 @@
+#!/usr/bin/python3
+# -------------------------------------------------------------------
+# ----------                                   -------------
+#      Print the calendar of a given month and year
+# ----------                                   -------------
+# -------------------------------------------------------------------
+import calendar
+
+month = int(input("enter a month: "))
+year = int(input("enter a year: "))
+print(calendar.month(year, month))
