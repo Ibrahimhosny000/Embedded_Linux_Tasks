@@ -53,7 +53,7 @@ a .c file containing code
 ```bash
 this script uses pyauto gui to enter personal gmail and makes all unread massage to read
 ```
-``````bash
+```bash
 output:
 all unread massages in gmail are read
 ```
