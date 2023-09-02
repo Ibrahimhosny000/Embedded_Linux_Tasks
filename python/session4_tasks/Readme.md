@@ -51,8 +51,7 @@ a .c file containing code
 ## Task5:-
 ### Using “Pyautogui” to open Emails and change Emails from unread to read:-
 ```bash
-this script uses pyauto gui to enter personal gmail and
-makes all unread massage to read
+this script uses pyauto gui to enter personal gmail and makes all unread massage to read
 ```
 ``````bash
 output:
@@ -63,8 +62,7 @@ all unread massages in gmail are read
 ## Task6:-
 ### Write a Python program to get the command-line arguments:-
 ```bash
-this script counts how many arguments in terminal and put them in a
-list
+this script counts how many arguments in terminal and put them in a list
 ```
 ```bash
 output:
