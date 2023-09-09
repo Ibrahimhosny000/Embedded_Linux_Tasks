@@ -52,6 +52,10 @@ output: Theses angles does not add up to make a triangle
 if you want to determine by sides:-
 ```bash
 Enter three sides to determine if
+Right Angle Triangle:- 
+```
+```bash
+Enter three sides to determine if
 Right Angle Triangle: for example 3 4 5
 -if right angle:
 output:This is a right angel triangle
