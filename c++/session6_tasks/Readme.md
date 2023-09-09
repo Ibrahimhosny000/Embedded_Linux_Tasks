@@ -35,11 +35,11 @@ Max number is 3
 ## Task3:-
 ### right angele triangel :-
 if you want to determine if a right angel triangel by angles
+if you want to determine by angles
 ```bash
 Enter three angles of a triangle to
 determine if it's a right angel triangle
 ```
-if not vowel
 ```bash
 -if right angel triangle:
 output: These angles add up to
@@ -48,6 +48,16 @@ A Right Angle Triangle
 output: This triangle is not a Right Angle Triangle
 -if entered angles are not for a triangle:
 output: Theses angles does not add up to make a triangle
+```
+if you want to determine by sides:-
+```bash
+Enter three sides to determine if
+Right Angle Triangle: for example 3 4 5
+-if right angle:
+output:This is a right angel triangle
+The hypotenuse is 5
+-if not a righg angle triangle: for example 2 3 4
+This is 'NOT' a Right Angle Triangle 
 ```
 ##
 ## task4:-
