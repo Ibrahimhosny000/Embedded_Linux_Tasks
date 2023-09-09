@@ -21,3 +21,8 @@ session3-tasks
 session4-tasks
 session5-tasks
 ```
+```bash
+---c++---
+Session6-Tasks
+```
+
