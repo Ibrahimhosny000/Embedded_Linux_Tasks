@@ -23,6 +23,8 @@ session5-tasks
 ```
 ```bash
 ---c++---
-Session6-Tasks
+Session1-Tasks
+Session2_Tasks
+Session3_Tasks
 ```
 
